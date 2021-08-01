@@ -1,18 +1,17 @@
-:author: username
-:email: <username@wisoft.io>
-:revision: 2021.xx.0
+:author: charlie
+:email: <woung2770@gmail.com>
+:revision: 2021.31.0
 :icons: font
-:main-title: main title
-:sub-title: sub title
-:description: description
-:git_service: https://git.wisoft.io/username/
-:project_name: project-name
+:main-title: Arrow Core Usage
+:description: 애로우 코어 라이브러리 예제 및 사용법으 관리하기 위한 저장소입니다.
+:git_service: https://github.com/CheolhoJeon/
+:project_name: arrow-core-usage
 :project_license: Copyright
 :experimental:
 :hardbreaks:
 
 
-= {main-title}: {sub-title}
+= {main-title}
 
 image:https://img.shields.io/badge/version-{revision}-blue.svg[link="./CHANGELOG",title="version"]  image:https://img.shields.io/badge/license-{project_license}-lightgrey.svg[link="./LICENSE",title="license"]
 
