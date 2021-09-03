@@ -8,6 +8,7 @@ object ArrowDependencies {
     const val arrowCore = "io.arrow-kt:arrow-core"
     const val arrowOptics = "io.arrow-kt:arrow-optics"
     const val arrowFxCoroutines = "io.arrow-kt:arrow-fx-coroutines"
+    const val arrowSyntax = "io.arrow-kt:arrow-syntax:0.12.1"
 }
 
 val implementation: Configuration by configurations
@@ -17,5 +18,6 @@ dependencies {
     implementation(ArrowDependencies.arrowCore)
     implementation(ArrowDependencies.arrowFxCoroutines)
     implementation(ArrowDependencies.arrowOptics)
+    implementation(ArrowDependencies.arrowSyntax)
     kapt(ArrowDependencies.arrowMeta)
 }
