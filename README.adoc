@@ -3,7 +3,7 @@
 :revision: 2021.31.0
 :icons: font
 :main-title: Arrow Core Usage
-:description: 애로우 코어 라이브러리 예제 및 사용법으 관리하기 위한 저장소입니다.
+:description: 애로우 코어 라이브러리 예제 및 사용법을 관리하기 위한 저장소입니다.
 :git_service: https://github.com/CheolhoJeon/
 :project_name: arrow-core-usage
 :project_license: Copyright
