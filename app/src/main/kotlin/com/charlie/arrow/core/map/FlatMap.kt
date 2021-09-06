@@ -1,4 +1,4 @@
-package com.charlie.arrow.core.flatMap
+package com.charlie.arrow.core.map.flatMap
 
 import arrow.core.Either
 import arrow.core.flatMap
